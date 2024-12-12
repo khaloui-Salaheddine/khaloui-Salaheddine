@@ -1,49 +1,43 @@
-![MasterHead](https://i.postimg.cc/wTPD88yM/banner-github.gif)
-
-<h3 align="left">I'm a Front End Developer from Argentina.</h3>
-<p align="left">I'm expanding my knowledge in the Coderhouse and Udemy platforms.</p>
-
+<h1>Hi there, I'm Kate</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3>Web developer, graphic & web designer from Montreal, CA</h3>
 
 
-- 💼 I’m currently working on **FreeLancer projects**
-
-- 🔭 I'm currently learning and exploring with **React.JS**
-
-- 👨‍💻 All of my projects are available at [https://matiasbenitez.netlify.app/](https://matiasbenitez.netlify.app/)
-
-- 📫 How to contact me **itsmesalaheddinekhaloui@gmail.com**
-  
-- 🧰 Or also https://www.linkedin.com/in/matías-benitez/
+- 💞️ Eat(); Sleep(); Code(); Repeat();
+- 👀 I'm interested in software development and design.
+- 🌱 I'm currently improving my skills in MERN stack.
+- 💬 I speak French, English, Russian and Romanian.
+- ⚡ Fun fact: I create amazing digital artworks<br> (welcome to my instagram)
 
 
-<table align="center">
-    <tr>              
-        <td><img src="https://github-readme-stats.vercel.app/api?username=matias-benitez&show_icons=true&theme=tokyonight" alt="some text"></td>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=matias-benitez&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="some text"></td>
-    </tr>
-</table>
+## Skills and Experience:
+<!-- https://simpleicons.org -->
+<!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 
-<h4 align="center">🚀 Languages and Tools 
-<h4 align="center">
+### Front-End Development
 
-![HTML](https://img.shields.io/badge/-HTML-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=flat-square&logo=javascript&logoColor=000000&color=%23f0db4f)
-![Bootstrap](https://img.shields.io/badge/-BootStrap-%23563d7c?style=flat-square&logo=bootstrap&logoColor=%23ffffff)
-![WordPress](https://img.shields.io/badge/-Tailwindcss-%2300749C?style=flat-square&logo=tailwindcss&logoColor=%23ffffff)
-![React](https://img.shields.io/badge/-React-%23323232?style=flat-square&logo=react)
-![Styled components](https://img.shields.io/badge/-Figma-%23db7092?style=flat-square&logo=figma&logoColor=%23ffffff)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 	![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<h4 align="center">💻 Training
-<br>
-<br>
+### Web & Graphic design
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-[<img src="https://img.shields.io/badge/-Car_Search_Simulator-%23323330?style=flat-square"/>](https://car-search-simulator.netlify.app/) [<img src="https://img.shields.io/badge/-Mail_Simulator-%23E44D27?style=flat-square"/>](https://mail-simulator.netlify.app/) [<img src="https://img.shields.io/badge/-Ecommerce-%235a01d0?style=flat-square"/>](https://damp-tshirts.netlify.app/)
-[<img src="https://img.shields.io/badge/-To_Do_List-%2300749C?style=flat-square"/>](https://to-do-list-coderhouse.netlify.app/)
+### Backend & Databases
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)	![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<h4 align="center">🌎 Freelance jobs
-<br>
-<br>
- 
- [<img src="https://img.shields.io/badge/-Superwork-%2300749C?style=flat-square"/>](https://www.superwork.com.ar/) [<img src="https://img.shields.io/badge/-TMC_Solutions-%23db7092?style=flat-square"/>](https://tmc-solutions.com.mx/) [<img src="https://img.shields.io/badge/-Vg_English_School-%23563d7c?style=flat-square"/>](https://vg-english.netlify.app/) [<img src="https://img.shields.io/badge/-Panambí-%23E44D27?style=flat-square"/>](https://panambi.netlify.app/) 
-  
+### Hosting
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+![kateFrontend GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kateFrontend)
+
+![kateFrontend GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kateFrontend&show_icons=true) 
+
+![](https://komarev.com/ghpvc/?username=kateFrontend)
+
+## Contact or follow me:
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/kateFrontend)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/katyadanilova/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/kat_visual_art/)  
+
+<!---
+kateFrontend/kateFrontend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
