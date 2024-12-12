@@ -1,13 +1,13 @@
-<h1>Hi there, I'm Kate</a> 
+<h1>Hi there, I'm Salaheddine</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3>Web developer, graphic & web designer from Montreal, CA</h3>
+<h3>Web developer, graphic & web designer from Morocco, Ma</h3>
 
 
 - 💞️ Eat(); Sleep(); Code(); Repeat();
 - 👀 I'm interested in software development and design.
 - 🌱 I'm currently improving my skills in MERN stack.
 - 💬 I speak French, English, Russian and Romanian.
-- ⚡ Fun fact: I create amazing digital artworks<br> (welcome to my instagram)
+- ⚡ Fun fact: I create amazing digital artworks<br>
 
 
 ## Skills and Experience:
@@ -35,7 +35,7 @@
 
 ## Contact or follow me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/kateFrontend)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/katyadanilova/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/kat_visual_art/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/khaloui-Salaheddine)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>]()  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>]()  
 
 <!---
 kateFrontend/kateFrontend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
